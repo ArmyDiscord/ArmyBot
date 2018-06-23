@@ -1,7 +1,0 @@
-{
-  "name": "ArmyBot",
-  "version": "",
-  "main": "index.js"  {
-    "discord.js": "^11.3.2"
-  }
-}
